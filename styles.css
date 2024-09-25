@@ -1,0 +1,111 @@
+nav>ul{ 
+    font-family: cursive;
+    font-size: 50pt;
+    display: flex;
+    list-style-type: none;
+    padding-left: 0%; 
+    align-items: center;
+    justify-content: center;
+    
+
+}
+nav>ul>li>a>img{
+
+
+    width: 30vw;
+
+}
+p {
+
+   background-color: bisque;
+}
+
+
+#factpage {
+
+background-color: burlywood;
+
+}
+#homepage {
+
+    background-image: url("Images/Flag-Jamaica.webp");
+    
+    background-position: 50%;
+    background-size: cover;
+
+}
+#homep{
+
+color: aliceblue;
+background-color: black;
+
+}
+nav>ul>li:hover{
+
+    background-color: black;
+
+}
+
+header>ul{
+    font-family: cursive;
+    font-size: 50pt;
+    display: flex;
+    list-style-type: none;
+    padding-left: 0%; 
+    align-items: center;
+    justify-content: center;
+    
+}
+    
+    
+    p{text-align: center;
+    font-family: cursive;
+    font-size: 15pt;}
+    #FREEDOM {
+        background-image: url("Images/download\ \(2\).png");
+        background-repeat: no-repeat;
+        background-position: 50%;
+        color: black;}
+
+.index.html>img {
+
+border: darkblue;
+
+}
+
+
+#home_button:hover{
+
+background-color: beige;
+
+}
+#home_button {
+
+    align-items: center;
+    justify-content: center;
+    text-align:left;
+    
+
+}
+h2 {
+    
+    font-family:fantasy 
+
+}
+#fact {
+
+height: 300pt;
+align-items: center;
+justify-content: center;
+padding-left: 30%;
+
+
+}
+img {
+
+    height: 200pt;
+}
+p{
+   font-family: fantasy;
+   font-size: 25pt;
+}
